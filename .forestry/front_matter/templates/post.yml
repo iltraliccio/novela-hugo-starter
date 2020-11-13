@@ -41,6 +41,7 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/aatest6.md
 - content/post/test-3.md
 - content/post/test-4.md
 - content/post/test-5.md
