@@ -1,7 +1,7 @@
 ---
 title: ilTraliccio
 bio: Trasporto informazioni... dalla mia testa al Web
-avatar: "/images/dennis-brotzky.jpg"
+avatar: "/images/profile_img_traliccio.jpg"
 featured: true
 social:
 - title: unsplash
