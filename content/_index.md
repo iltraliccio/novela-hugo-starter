@@ -1,9 +1,8 @@
 ---
 hero:
-  heading: TEST1 Novela, the simplest way to start publishing with Hugo and Forestry.
+  heading: ilTraliccio
   maxWidthPX: "652"
 seo:
   image: "/images/hero-2.jpg"
 
 ---
-TEST 11
