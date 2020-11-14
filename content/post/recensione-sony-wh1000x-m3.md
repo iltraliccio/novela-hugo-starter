@@ -11,10 +11,10 @@ title = "Recensione SONY WH1000X M3"
 
 In piena quarantena, ad Aprile 2020, nel disperato bisogno di mettere a tacere (almeno passivamente) il mio vicino di casa e permettermi di passare le mie lunghe sessioni davanti al computer in pace,  ho acquistato le celeberrime cuffie di Sony con riduzione del rumore.
 
-Inizio devo dire non piacevolissimo, dopo oltre 260€ di ordine, al day one di possesso, ho avuto la fortuna di trovare i server di Sony down che non mi hanno permesso di scaricare l'applicazione per la prima configurazione.   
+Inizio devo dire non piacevolissimo, dopo oltre 260€ di ordine, al day one di possesso, ho avuto la fortuna di trovare i server di Sony down che non mi hanno permesso di scaricare l'applicazione per la prima configurazione.  
 Poco male.. la sera stessa i server sono tornati on e seppur la mia smania di provare subito il nuovo acquisto si fosse esaurita, ho completato con successo tutta la configurazione.
 
 ![](/images/Sony WH1000X M3_2.jpg)
 
 Riduzione rumore:  
-la funzione forse chele ha rese 
+la funzione forse chele ha rese
