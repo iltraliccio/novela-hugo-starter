@@ -1,7 +1,6 @@
 ---
 title: ilTraliccio
-bio: Una colonna portante quando tutto va bene o uno supporto a cui aggrapparsi quando
-  si sta per cadere. Scrivo un po' di tutto e delle mie passioni.
+bio: Trasporto informazioni... dalla mia testa al Web
 avatar: "/images/dennis-brotzky.jpg"
 featured: true
 social:
