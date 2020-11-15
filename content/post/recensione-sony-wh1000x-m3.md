@@ -21,4 +21,4 @@ Poco male.. la sera stessa i server sono tornati on e seppur la mia smania di pr
 Riduzione rumore:  
 la funzione forse chele ha rese
 
-![](/images/afaSony WH1000X M3_2 copia.jpg)
+![](/images/afamnSony WH1000X M3_2 copia.jpg)
