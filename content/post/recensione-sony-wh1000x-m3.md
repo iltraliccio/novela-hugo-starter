@@ -18,7 +18,9 @@ Poco male.. la sera stessa i server sono tornati on e seppur la mia smania di pr
 
 ![](/images/hero-6uoh.jpg)
 
-Riduzione rumore:  
-la funzione forse chele ha rese
+Riduzione rumore:
 
-![](/images/afamnSony WH1000X M3_2 copia.jpg)
+![](/images/sadgfsg.jpg)
+
+  
+la funzione forse chele ha rese
